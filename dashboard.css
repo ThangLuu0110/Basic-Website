@@ -1,0 +1,50 @@
+:root{
+    --dashboard-bg-color: #001489;
+    --dashboard-sc-color: #ffffff;
+}
+
+
+
+.dashboard{
+    background-color: var(--dashboard-bg-color);
+    height: 100vh;
+    padding: 20px;
+}
+
+.dashboard__header{
+    height: 100px;
+    width: 100%;
+    color: var(--dashboard-sc-color);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.dashboard__logo-title{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.dashboard__tools{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+.dashboard__button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: var(--dashboard-sc-color);
+    color: var(--dashboard-bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+}
+
+img{
+    height: 100px;
+}
