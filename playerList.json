@@ -1,0 +1,193 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "fullName": "Robert Sánchez",
+            "dateOfBirth": "18/11/1997",
+            "position": "Goalkeeper",
+            "nationality": "Spain",
+            "height": "1.97m",
+            "shirtNumber": 1
+        },
+        {
+            "id": 2,
+            "fullName": "Filip Jörgensen",
+            "dateOfBirth": "16/04/2002",
+            "position": "Goalkeeper",
+            "nationality": "Denmark",
+            "height": "1.92m",
+            "shirtNumber": 12
+        },
+        {
+            "id": 3,
+            "fullName": "Gaga Slolina",
+            "dateOfBirth": "15/05/2004",
+            "position": "Goalkeeper",
+            "nationality": "United States",
+            "height": "1.93m",
+            "shirtNumber": 44
+        },
+        {
+            "id": 4,
+            "fullName": "Max Merrick",
+            "dateOfBirth": "10/11/2005",
+            "position": "Goalkeeper",
+            "nationality": "England",
+            "height": "1.76m",
+            "shirtNumber": 50
+        },
+        {
+            "id": 5,
+            "fullName": "Marc Cucurella",
+            "dateOfBirth": "22/07/1998",
+            "position": "Defender",
+            "nationality": "Spain",
+            "height": "1.74m",
+            "shirtNumber": 3
+        },
+        {
+            "id": 6,
+            "fullName": "Tosin Adarabioyo",
+            "dateOfBirth": "24/091997",
+            "position": "Defender",
+            "nationality": "England",
+            "height": "1.96m",
+            "shirtNumber": 4
+        },
+        {
+            "id": 7,
+            "fullName": "Benoit Badiashile",
+            "dateOfBirth": "26/03/2001",
+            "position": "Defender",
+            "nationality": "France",
+            "height": "1.94m",
+            "shirtNumber": 5
+        },
+        {
+            "id": 8,
+            "fullName": "Levi Colwill",
+            "dateOfBirth": "26/02/2003",
+            "position": "Defender",
+            "nationality": "England",
+            "height": "1.87m",
+            "shirtNumber": 6
+        }, 
+        {
+            "id": 9,
+            "fullName": "Jorrel Hato",
+            "dateOfBirth": "07/03/2006",
+            "position": "Defender",
+            "nationality": "Netherlands",
+            "height": "1.82m",
+            "shirtNumber": 21
+        },
+        {
+            "id": 10,
+            "fullName": "Trevoh Chalobah",
+            "dateOfBirth": "05/07/1999",
+            "position": "Defender",
+            "nationality": "England",
+            "height": "1.90m",
+            "shirtNumber": 23
+        },
+        {
+            "id": 11,
+            "fullName": "Reece James",
+            "dateOfBirth": "08/12/1999",
+            "position": "Defender",
+            "nationality": "England",
+            "height": "1.82m",
+            "shirtNumber": 24
+        },
+        {
+            "id": 12,
+            "fullName": "Malo Gusto",
+            "dateOfBirth": "19/05/2003",
+            "position": "Defender",
+            "nationality": "France",
+            "height": "1.79m",
+            "shirtNumber": 27
+        },
+        {
+            "id": 13,
+            "fullName": "Wesley Fofana",
+            "dateOfBirth": "17/12/2000",
+            "position": "Defender",
+            "nationality": "France",
+            "height": "1.90m",
+            "shirtNumber": 29
+        },
+        {
+            "id": 14,
+            "fullName": "Josh Acheampong",
+            "dateOfBirth": "05/05/2006",
+            "position": "Defender",
+            "nationality": "England",
+            "height": "1.84m",
+            "shirtNumber": 34
+        },
+        {
+            "id": 15,
+            "fullName": "Enzo Fernández",
+            "dateOfBirth": "17/01/2001",
+            "position": "Midfielder",
+            "nationality": "Argentina",
+            "height": "1.78m",
+            "shirtNumber": 28
+        },
+        {
+            "id": 16,
+            "fullName": "Cole Palmer",
+            "dateOfBirth": "06/05/2002",
+            "position": "Midfielder",
+            "nationality": "England",
+            "height": "1.89m",
+            "shirtNumber": 10
+        },
+        {
+            "id": 17,
+            "fullName": "Dário Essugo",
+            "dateOfBirth": "14/03/2005",
+            "position": "Midfielder",
+            "nationality": "Portugal",
+            "height": "1.78m",                          
+            "shirtNumber": 14
+        },      
+        {
+            "id": 18,
+            "fullName": "Andrey Santos",
+            "dateOfBirth": "03/05/2004",
+            "position": "Midfielder",
+            "nationality": "Brazil",
+            "height": "1.80m",
+            "shirtNumber": 17
+        },
+        {
+            "id": 19,
+            "fullName": "Moisés Caicedo",
+            "dateOfBirth": "02/11/2001",
+            "position": "Midfielder",
+            "nationality": "Ecuador",
+            "height": "1.78m",
+            "shirtNumber": 25
+        },
+        {
+            "id": 20,
+            "fullName": "Carney Chukwuemeka",
+            "dateOfBirth": "20/10/2003",
+            "position": "Midfielder",
+            "nationality": "England",
+            "height": "1.83m",
+            "shirtNumber": 30
+        },
+        {
+            "id": 21,
+            "fullName": "Roméo Lavia",
+            "dateOfBirth": "06/01/2004",
+            "position": "Midfielder",
+            "nationality": "Belgium",
+            "height": "1.81m",  
+            "shirtNumber": 45
+        }
+    ]
+}
