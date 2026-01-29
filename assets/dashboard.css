@@ -134,3 +134,47 @@ input:focus {/* New border color when focused */
     background-color: var(--dashboard-bg-color);
     color: var(--dashboard-sc-color);
 }
+
+.dashboard__content-information{
+    border: #e3e7ed 10px solid;
+    position: relative;
+    padding: 10px 20px;
+}
+
+.player-information{
+    background-color: var(--dashboard-sc-color);
+    width: calc(100% - 20px);
+    height: calc(100vh - 160px - 40px);
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    overflow-y: auto;
+}
+
+.player-information.forwards{
+    z-index: 4;
+}
+
+.player-information.midfielders{
+    z-index: 3;
+}
+
+.player-information.defenders{
+    z-index: 2;
+}
+
+.player-information.goalkeepers{
+    z-index: 1;
+}
+
+.player-card{
+    background-color: var(--dashboard-sc-color);
+    color: var(--dashboard-bg-color);
+    border: var(--dashboard-bg-color) 5px solid;
+    border-radius: 10px;
+    padding: 10px;
+    width: 450px;
+    height: 200px;
+}

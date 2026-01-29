@@ -7,7 +7,8 @@
             "position": "Goalkeeper",
             "nationality": "Spain",
             "height": "1.97m",
-            "shirtNumber": 1
+            "shirtNumber": 1,
+            "linkImage": "https://resources.premierleague.com/premierleague25/photos/players/110x140/209096.png"
         },
         {
             "id": 2,
@@ -16,7 +17,8 @@
             "position": "Goalkeeper",
             "nationality": "Denmark",
             "height": "1.92m",
-            "shirtNumber": 12
+            "shirtNumber": 12,
+            "linkImage": "https://resources.premierleague.com/premierleague25/photos/players/110x140/508479.png"
         },
         {
             "id": 3,
@@ -25,7 +27,8 @@
             "position": "Goalkeeper",
             "nationality": "United States",
             "height": "1.93m",
-            "shirtNumber": 44
+            "shirtNumber": 44,
+            "linkImage": "https://resources.premierleague.com/premierleague25/photos/players/110x140/471798.png"
         },
         {
             "id": 4,
@@ -188,6 +191,78 @@
             "nationality": "Belgium",
             "height": "1.81m",  
             "shirtNumber": 45
+        },
+        {
+            "id": 22,
+            "fullName": "Pedro Neto",
+            "dateOfBirth": "09/03/2000",
+            "position": "Forward",
+            "nationality": "Portugal",
+            "height": "1.74m",
+            "shirtNumber": 7
+        },
+        {
+            "id": 23,
+            "fullName": "Liam Delap",
+            "dateOfBirth": "08/01/2003",
+            "position": "Forward",
+            "nationality": "England",
+            "height": "1.86m", 
+            "shirtNumber": 9
+        },
+        {
+            "id": 24,
+            "fullName": "Jamie Gittens",
+            "dateOfBirth": "08/08/2004",
+            "position": "Forward",
+            "nationality": "England",
+            "height": "1.75m", 
+            "shirtNumber": 11
+        },
+        {
+            "id": 25,
+            "fullName": "João Pedro",
+            "dateOfBirth": "26/09/2001",
+            "position": "Forward",
+            "nationality": "Brazil",
+            "height": "1.82m",
+            "shirtNumber": 20
+        },
+        {
+            "id": 26,
+            "fullName": "Tyrique George",
+            "dateOfBirth": "04/02/2006",
+            "position": "Forward",
+            "nationality": "England",
+            "height": "1.81m",
+            "shirtNumber": 32
+        },
+        {
+            "id": 27,
+            "fullName": "Marc Guiu",
+            "dateOfBirth": "04/01/2006",
+            "position": "Forward",
+            "nationality": "Spain",
+            "height": "1.87m",
+            "shirtNumber": 38
+        },
+        {
+            "id": 28,
+            "fullName": "Estêvão",
+            "dateOfBirth": "24/04/2007",
+            "position": "Forward",
+            "nationality": "Brazil",
+            "height": "1.76m",
+            "shirtNumber": 41
+        },
+        {
+            "id": 29,
+            "fullName": "Alejandro Garnacho",
+            "dateOfBirth": "01/07/2004",
+            "position": "Forward",
+            "nationality": "Argentina",
+            "height": "1.80m",
+            "shirtNumber": 49
         }
     ]
 }
